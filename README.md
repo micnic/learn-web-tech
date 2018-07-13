@@ -1,6 +1,13 @@
 # learn-web-tech
 A plan for teaching / learning web technologies
 
+# Tools
+- Your favorite browser
+- Visual Studio Code
+- Git
+- Node.js
+- NPM
+
 # HTML
 - General description
   - What is HTML? - Hyper Text Markup Language
@@ -39,7 +46,6 @@ A plan for teaching / learning web technologies
   - What is JS? - JavaScript
   - Simple JS script
   - How JS works with HTML and CSS?
-  - What is Node.js?
   - Language philosophy
 - History of JS
   - ES1 - 1997 (first implementation 1995)
