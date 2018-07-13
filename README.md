@@ -26,6 +26,60 @@ A plan for teaching / learning web technologies
 - 5.1 - 2016
 - 5.2 - 2017
 - Future
+## 1.3 Main tags
+- &#60;html&#62;&#60;/html&#62;
+- &#60;head&#62;&#60;/head&#62;
+- &#60;body&#62;&#60;/body&#62;
+## 1.4 Comments
+## 1.5 Global attributes
+- class
+- id
+- style
+- title
+## 1.6 Iframes
+- height
+- name
+- src
+- width
+## 1.7 Block elements
+## 1.8 Inline elements
+## 1.9 Hyperlinks
+- download
+- href
+- target
+## 1.10 Forms
+- &#60;form&#62;&#60;/form&#62;
+- &#60;input&#62;&#60;/input&#62;
+- &#60;button&#62;&#60;/button&#62;
+- &#60;select&#62;&#60;/select&#62;
+- &#60;option&#62;&#60;/option&#62;
+- &#60;textarea&#62;&#60;/textarea&#62;
+- action
+- enctype
+- method
+- name
+- target
+- type
+## 1.11 Images
+- alt
+- height
+- src
+- width
+## 1.12 Tables
+- &#60;table&#62;&#60;/table&#62;
+- &#60;thead&#62;&#60;/thead&#62;
+- &#60;tbody&#62;&#60;/tbody&#62;
+- &#60;tfoot&#62;&#60;/tfoot&#62;
+- &#60;tr&#62;&#60;/tr&#62;
+- &#60;th&#62;&#60;/th&#62;
+- &#60;td&#62;&#60;/td&#62;
+- colspan
+- rowspan
+## 1.13 Lists
+- &#60;ul&#62;&#60;/ul&#62;
+- &#60;ol&#62;&#60;/ol&#62;
+- &#60;li&#62;&#60;/li&#62;
+## 1.14 Headings &#60;h*&#62; &#60;/h*&#62;
 ----------
 
 # 2. CSS
