@@ -14,6 +14,7 @@ A plan for teaching / learning web technologies
 ----------
 
 # 1. HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 ## 1.1 General description
 - What is HTML? - Hyper Text Markup Language
 - Simple HTML document
@@ -34,19 +35,26 @@ A plan for teaching / learning web technologies
 - &#60;html&#62;&#60;/html&#62;
 - &#60;head&#62;&#60;/head&#62;
 - &#60;body&#62;&#60;/body&#62;
-## 1.4 Comments
+## 1.4 Metadata
+- &#60;title&#62;&#60;/title&#62;
+- &#60;meta&#62;&#60;/meta&#62;
+- &#60;link&#62;&#60;/link&#62;
 ## 1.5 Global attributes
 - class
 - id
 - style
 - title
-## 1.6 Iframes
-- height
-- name
-- src
-- width
-## 1.7 Block elements
-## 1.8 Inline elements
+## 1.6 Block elements
+## 1.7 Inline elements
+## 1.8 Document sections
+- &#60;header&#62;&#60;/header&#62;
+- &#60;nav&#62;&#60;/nav&#62;
+- &#60;main&#62;&#60;/main&#62;
+- &#60;aside&#62;&#60;/aside&#62;
+- &#60;footer&#62;&#60;/footer&#62;
+- &#60;section&#62;&#60;/section&#62;
+- &#60;article&#62;&#60;/article&#62;
+- &#60;div&#62;&#60;/div&#62;
 ## 1.9 Hyperlinks
 - download
 - href
@@ -84,6 +92,13 @@ A plan for teaching / learning web technologies
 - &#60;ol&#62;&#60;/ol&#62;
 - &#60;li&#62;&#60;/li&#62;
 ## 1.14 Headings &#60;h*&#62; &#60;/h*&#62;
+## 1.15 Multimedia and embedding
+- &#60;iframe&#62;&#60;/ifram&#62;
+- &#60;video&#62;&#60;/video&#62;
+- &#60;audio&#62;&#60;/audio&#62;
+- &#60;embed&#62;&#60;/embed&#62;
+- &#60;object&#62;&#60;/object&#62;
+## 1.16 Comments
 ----------
 
 # 2. CSS
