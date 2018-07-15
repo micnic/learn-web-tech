@@ -1,6 +1,10 @@
 # learn-web-tech
 A plan for teaching / learning web technologies
 
+# Resources
+- https://developer.mozilla.org/
+- https://www.w3schools.com/
+
 # Tools
 - Your favorite browser
 - Visual Studio Code
