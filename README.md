@@ -102,6 +102,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 ----------
 
 # 2. CSS
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 ## 2.1 General description
 - What is CSS? - Cascading Style Sheets
 - Simple style sheet
@@ -115,6 +116,66 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 - Level 3 - 2011 - 2012 (first draft 1999)
 - Level 4 - 2007 - ...
 - Future
+## 2.3 Syntax
+- Property
+- Value
+## 2.4 Selectors
+- Simple selectors
+  - Type selectors
+  - Class selectors
+  - Id selectors
+  - Universal selector "\*"
+- Attribute selectors
+  - Attribute presence
+  - Attribute substring
+- Pseudo-selectors
+  - :not()
+  - :first-child()
+  - :last-child()
+  - :nth-child()
+  - :nth-last-child()
+  - :hover
+- Pseudo-elements
+  - ::after
+  - ::before
+- Combinators
+  - Descendant selector
+  - Child selector
+  - Adjacent sibling selector
+  - General sibling selector
+- Multiple selectors
+## 2.5 Cascade
+- Source order
+- Specificity
+- Importance
+## 2.6 Units
+- absolute length units
+  - pixels (px)
+  - points (pt)
+  - millimeters (mm)
+  - centimeters (cm)
+- relative length units
+  - percentage (%)
+  - vh
+  - vw
+  - vmin
+  - vmax
+  - em
+  - rem
+- unitless values
+## 2.7 Colors
+- RGB
+- HSL
+- RGBA
+- HSLA
+## 2.8 Box model
+- width
+- height
+- padding
+- border
+- margin
+- box-sizing
+
 ----------
 
 # 3. JS
