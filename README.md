@@ -322,3 +322,12 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 - Proxy
 - Reflexion
 ----------
+
+# 4. DOM
+# 5. React
+https://reactjs.org/docs/getting-started.html
+## 5.1 General description
+- What is React and ReactDOM?
+- What is JSX?
+- What is a component?
+- React philosophy
