@@ -229,3 +229,96 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 - ES2017
 - ES2018
 - ES.NEXT
+## 3.3 Grammar and types
+- Comments
+  - Single-line comment
+  - Multi-line comment
+- Declarations
+  - Variables
+  - Constants
+- Data types
+  - Boolean
+  - Number
+  - String
+  - Symbol
+  - null
+  - undefined
+  - Object
+- Literals
+  - Array literals
+  - Boolean literals
+  - Floating-point literals
+  - Integers
+  - Object literals
+  - RegExp literals
+  - String literals
+## 3.4 Control flow and error handling
+- Block statement
+- Conditional statements
+  - if...else statement
+  - switch statement
+- Exception handling statements
+  - throw statement
+  - try...catch statement
+- Promises
+## 3.5 Loops and iteration
+- for statement
+- do...while statement
+- while statement
+- labeled statement
+- break statement
+- continue statement
+- for...in statement
+- for...of statement
+## 3.6 Functions
+- Defining functions
+  - Function declarations
+  - Function expressions
+  - Arrow functions
+- Calling functions
+- Function anatomy
+## 3.7 Expressions and operators
+- Operators
+  - Assignment operators
+  - Comparison operators
+  - Arithmetic operators
+  - Bitwise operators
+  - Logical operators
+  - String operators
+  - Conditional (ternary) operator
+  - Comma operator
+  - Unary operators
+  - Relational operators
+- Operator precedence
+- Expressions
+  - Primary expressions
+  - Left-hand-side expressions
+## 3.8 Numbers and dates
+- Numbers
+  - Decimal numbers
+  - Binary numbers
+  - Octal numbers
+  - Hexadecimal numbers
+  - Exponentiation
+- Number object
+- Math object
+- Date object
+## 3.9 Text formatting
+- Strings
+- Template literals
+## 3.10 Regular Expressions
+## 3.11 Indexed collections
+- Array
+- Typed Arrays
+## 3.12 Keyed collections
+- Map
+- WeakMap
+- Set
+- WeakSet
+## 3.13 Objects
+## 3.14 Iterators and generators
+## 3.15 JSON
+## 3.16 Meta programming
+- Proxy
+- Reflexion
+----------
