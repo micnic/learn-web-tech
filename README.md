@@ -175,7 +175,41 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 - border
 - margin
 - box-sizing
-
+## 2.9 Box styling
+- Background
+  - color
+  - image
+  - position
+  - repeat
+  - size
+- Border
+  - color
+  - style
+  - width
+  - radius
+  - image
+## 2.10 Text styling
+- Color
+- Font
+  - family
+  - size
+  - style
+  - weight
+  - transform
+  - decoration
+- Alignment
+- Line Height
+- Spacing
+  - letter spacing
+  - word spacing
+## 2.11 Layout
+- Normal flow
+- display property
+- position property
+- Flexbox
+- Grid
+- table layout
+- floats
 ----------
 
 # 3. JS
