@@ -1,9 +1,10 @@
 # learn-web-tech
-A plan for teaching / learning web technologies
+A plan for teaching / learning web technologies and react.js.
 
 # Resources
 - https://developer.mozilla.org/
 - https://www.w3schools.com/
+- https://reactjs.org
 
 # Tools
 - Your favorite browser
@@ -330,4 +331,44 @@ https://reactjs.org/docs/getting-started.html
 - What is React and ReactDOM?
 - What is JSX?
 - What is a component?
+- Simples react example
 - React philosophy
+## 5.2 JSX
+- Why using JSX?
+- Adding expressions in JSX
+- Specifying attirbutes and childrens in JSX
+- JSX translation to plain JS
+## 5.3 Functional components and class components
+## 5.4 Rendering / composing / splitting components
+## 5.5 Props and state
+- setState()
+- forceUpdate()
+## 5.6 Lifecycles
+- Mounting
+  - constructor()
+  - static getDerivedStateFromProps()
+  - render()
+  - componentDidMount()
+- Updating
+  - static getDerivedStateFromProps()
+  - shouldComponentUpdate()
+  - render()
+  - getSnapshotBeforeUpdate()
+  - componentDidUpdate()
+- Unmounting
+  - componentWillUnmount()
+- Error Handling
+  - componentDidCatch()
+## 5.7 Handling events
+- Synthetic events
+## 5.8 Multiple children and keys
+## 5.9 Forms
+- Controlled components
+## 5.10 Fragments
+## 5.11 Refs
+- React.createRef()
+- React.forwardRef()
+## 5.12 Context
+- Provider
+- Consumer
+## 5.13 Portals
