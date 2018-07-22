@@ -12,6 +12,67 @@ A plan for teaching / learning web technologies and react.js.
 - Git
 - Node.js
 - NPM
+
+# Simple applications for practice
+- Calculator
+  - Expression input
+  - Digit buttons
+  - Operations buttons (+, -, *, /, =)
+- Chat
+  - Message input
+  - Send button
+  - Chat log
+- Notes
+  - Note input
+  - Add note button
+  - Notes list
+  - Remove note button
+  - Reorder note
+- Timer / Countdown
+  - Time display / input
+  - Start button
+  - Stop button
+  - Reset button
+- Data table
+  - Inserting
+  - Editing
+  - Removing
+  - Pagination
+  - Searching
+  - Sorting
+  - Reordering
+  - Spoilers
+- Color picker
+  - Color palette
+  - Color values slider
+  - RGB display
+  - HSL display
+- Calendar
+  - Year view
+  - Month view
+  - Date display
+  - Date navigation
+  - Event creation
+- Clock
+  - Digital mode
+  - Analogic mode
+  - Alarm
+  - World time display
+  - Date display
+- Weather app
+  - Location selection
+  - Time selection
+  - Open service data fetch
+  - Weather description
+  - Temperature display
+  - Wind speed display
+  - Humidity display
+- Tic-Tac-Toe game
+  - Grid display
+  - XO set
+  - Game reset button
+  - Win message
+
 ----------
 
 # 1. HTML
