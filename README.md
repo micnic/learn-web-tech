@@ -386,6 +386,170 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 ----------
 
 # 4. DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+## 4.1 Window
+- .console
+- .document
+- .fullScreen
+- .history
+- .location
+- .localStorage
+- .name
+- .navigator
+- .opener
+- .parent
+- .performance
+- .screen
+- .status
+- .alert()
+- .blur()
+- .close()
+- .confirm()
+- .find()
+- .focus()
+- .getComputedStyle()
+- .getSelection()
+- .open()
+- .moveTo()
+- .moveBy()
+- .print()
+- .prompt()
+- .requestAnimationFrame()
+- .requestIdleCallback()
+- .setTimeout()
+- .setInterval()
+## 4.2 Console
+- .log()
+- .error()
+- .info()
+- .warn()
+- .trace()
+- .count()
+- .group()
+- .table()
+- .time()
+- .clear()
+## 4.3 Document
+- .body
+- .head
+- .links
+- .forms
+- .images
+- .scripts
+- .styleSheetSets
+- .documentElement
+- .cookie
+- .domain
+- .location
+- .readyState
+- .referrer
+- .title
+- .activeElement
+- .fullscreenElement
+- .getElementById()
+## 4.4 History
+- .length
+- .back()
+- .forward()
+- .go()
+- .pushState()
+- .replaceState()
+## 4.5 Location
+- .href
+- .protocol
+- .host
+- .hostname
+- .port
+- .pathname
+- .search
+- .hash
+- .assign()
+- .reload()
+- .replace()
+## 4.6 Storage
+- .length
+- .key()
+- .getItem()
+- .setItem()
+- .removeItem()
+- .clear()
+## 4.7 Navigator
+- .appCodeName
+- .appName
+- .appVersion
+- .battery
+- .connection
+- .geolocation
+- .oscpu
+- .platform
+- .userAgent
+- .getUserMedia()
+## 4.8 Performance
+- .mark()
+- .measure()
+- .now()
+- .getEntries()
+- .clearMarks()
+- .clearMeasures()
+## 4.9 Screen
+- .width
+- .height
+- .left
+- .top
+- .availWidth
+- .availHeight
+- .availLeft
+- .availTop
+- .orientation
+- .pixelDepth
+## 4.10 EventTarget
+- .addEventListener()
+- .removeEventListener()
+- .dispatchEvent()
+## 4.11 Node
+- .nodeName
+- .nodeType
+- .nodeValue
+- .childNodes
+- .firstChild
+- .lastChild
+- .nextSibling
+- .previousSibling
+- .parentNode
+- .appendChild()
+- .cloneNode()
+- .contains()
+- .insertBefore()
+- .removeChild()
+- .replaceChild()
+## 4.12 Element
+- .tagName
+- .attributes
+- .classList
+- .className
+- .clientWidth
+- .clientHeight
+- .clientLeft
+- .clientTop
+- .id
+- .innerHTML
+- .outerHTML
+- .scrollWidth
+- .scrollHeight
+- .scrollLeft
+- .scrollTop
+- .getAttribute()
+- .setAttribute()
+- .hasAttribute()
+- .closest()
+- .getBoundingClientRect()
+- .getClientRects()
+- .getElementsByClassName()
+- .getElementsByTagName()
+- .querySelector()
+- .querySelectorAll()
+----------
+
 # 5. React
 https://reactjs.org/docs/getting-started.html
 ## 5.1 General description
