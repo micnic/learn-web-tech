@@ -275,6 +275,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 ----------
 
 # 3. JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
 ## 3.1 General description
 - What is JS? - JavaScript
 - Simple JS script
@@ -295,17 +296,15 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 - Comments
   - Single-line comment
   - Multi-line comment
-- Declarations
-  - Variables
-  - Constants
+- Variable and constant declarations
 - Data types
   - Boolean
   - Number
   - String
+  - Undefined
   - Symbol
-  - null
-  - undefined
   - Object
+  - Function
 - Literals
   - Array literals
   - Boolean literals
@@ -378,15 +377,36 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 - Set
 - WeakSet
 ## 3.13 Objects
-## 3.14 Iterators and generators
-## 3.15 JSON
-## 3.16 Meta programming
+- object initializers
+- properties and methods
+- getters and setters
+- deleting properties
+- comparing objects
+- Object.assign()
+- Object.create()
+- Object.defineProperty()
+- Object.defineProperties()
+- Object.freeze()
+- Object.seal()
+- Object.entries()
+- Object.keys()
+- Objet.values()
+## 3.15 Classes
+- constructor
+- properties and methods
+- getters and setters
+- inheritance
+- static
+- future proposals
+## 3.14 JSON
+## 3.16 Iterators and generators
+## 3.17 Meta programming
 - Proxy
 - Reflexion
 ----------
 
-# 4. DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+# 4. Web APIs
+https://developer.mozilla.org/en-US/docs/Web/API
 ## 4.1 Window
 - .console
 - .document
