@@ -275,8 +275,8 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 ----------
 
 # 3. JS
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
-http://javascript.info/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+- http://javascript.info/
 ## 3.1 General description
 - What is JS? - JavaScript
 - Simple JS script
