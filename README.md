@@ -275,7 +275,8 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 ----------
 
 # 3. JS
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+- http://javascript.info/
 ## 3.1 General description
 - What is JS? - JavaScript
 - Simple JS script
@@ -337,7 +338,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
   - Function expressions
   - Arrow functions
 - Calling functions
+  - call, apply, bind
 - Function anatomy
+- Function hoisting
+- Closure
+
 ## 3.7 Expressions and operators
 - Operators
   - Assignment operators
