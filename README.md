@@ -276,6 +276,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 
 # 3. JS
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
+http://javascript.info/
 ## 3.1 General description
 - What is JS? - JavaScript
 - Simple JS script
@@ -568,6 +569,10 @@ https://developer.mozilla.org/en-US/docs/Web/API
 - .getElementsByTagName()
 - .querySelector()
 - .querySelectorAll()
+
+##4.13 Concurrency model and Event Loop
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+- https://youtu.be/8aGhZQkoFbQ
 ----------
 
 # 5. React
