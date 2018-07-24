@@ -338,11 +338,11 @@ http://javascript.info/
   - Function expressions
   - Arrow functions
 - Calling functions
+  - call, apply, bind
 - Function anatomy
-- call, apply, bind
-- function hoisting
-- closure
-##3.6
+- Function hoisting
+- Closure
+
 ## 3.7 Expressions and operators
 - Operators
   - Assignment operators
@@ -573,10 +573,6 @@ https://developer.mozilla.org/en-US/docs/Web/API
 - .getElementsByTagName()
 - .querySelector()
 - .querySelectorAll()
-
-##4.13 Concurrency model and Event Loop
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
-- https://youtu.be/8aGhZQkoFbQ
 ----------
 
 # 5. React
