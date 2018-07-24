@@ -339,6 +339,10 @@ http://javascript.info/
   - Arrow functions
 - Calling functions
 - Function anatomy
+- call, apply, bind
+- function hoisting
+- closure
+##3.6
 ## 3.7 Expressions and operators
 - Operators
   - Assignment operators
