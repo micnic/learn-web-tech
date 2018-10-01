@@ -368,6 +368,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
 - Strings
 - Template literals
 ## 3.10 Regular Expressions
+- Special characters
+- Patterns and grouping
+- .exec()
+- .test()
 ## 3.11 Indexed collections
 - Array
 - Typed Arrays
@@ -399,7 +403,12 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction
 - static
 - future proposals
 ## 3.14 JSON
+- JSON.stringify()
+- JSON.parse()
 ## 3.16 Iterators and generators
+- yield operator
+- Generator functions
+- Iterables
 ## 3.17 Meta programming
 - Proxy
 - Reflexion
